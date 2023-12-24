@@ -1,4 +1,4 @@
-# Minha Aplicação de Gerenciamento de Produtos
+# Aplicação de Gerenciamento de Produtos
 ![Texto alternativo da imagem](spring_react.png)
 
 Este é um projeto de aplicação web que foi desenvolvido com o Spring Framework para o back-end, o React para o front-end e utiliza o banco de dados MySQL para o armazenamento de produtos. A aplicação permite o gerenciamento de produtos, incluindo a capacidade de cadastrar, selecionar, deletar e alterar produtos no sistema.
@@ -32,7 +32,7 @@ Este é um projeto de aplicação web que foi desenvolvido com o Spring Framewor
 
 2. **Back-End:**
 
-   - Clone o repositório do back-end https://github.com/lucasvpessoafranca/api_products_spring_react (separado) e siga as instruções para configurar e executar o servidor Spring Boot. Certifique-se de configurar as credenciais do banco de dados MySQL no arquivo de configuração.
+   - Clone o repositório do back-end https://github.com/lucasviniciuspessoa/api-produtos (separado) e siga as instruções para configurar e executar o servidor Spring Boot. Certifique-se de configurar as credenciais do banco de dados MySQL no arquivo de configuração.
 
 3. **Front-End:**
 
